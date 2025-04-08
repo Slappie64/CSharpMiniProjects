@@ -15,7 +15,7 @@ A collection of mini projects written in C#, designed for learning, experimentat
 4. **Text-Based Tic-Tac-Toe**  
    - A simple 2-player Tic-Tac-Toe game implemented in the console, focusing on game logic and arrays.
 
-5. **Converter**  
+5. **[Converter](https://github.com/Slappie64/CSharpMiniProjects/tree/main/Converter)**  
    - A program to convert temperatures between Celsius and Fahrenheit, showcasing functions and user input handling.
 
 ## 🎯 Purpose
